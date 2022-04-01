@@ -1,4 +1,5 @@
 package one.digitalinnovation.gof;
+//@jr
 
 import one.digitalinnovation.gof.facade.Facade;
 import one.digitalinnovation.gof.singleton.SingletonEager;
